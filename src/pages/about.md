@@ -29,3 +29,6 @@ adventures.
   - C#
   - Java
   - PHP
+
+### Shoutouts
+Ik wil graag een shoutout geven naar [Jolle](https://www.instagram.com/ikisjolle/).
